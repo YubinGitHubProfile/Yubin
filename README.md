@@ -5,7 +5,7 @@ I'm Yubin, a PhD candidate in linguistics and an AI practitioner passionate abou
 ## About Me
 - 🔬 PhD candidate in **Linguistics**, focusing on psycholinguistics.
 - 🤖 Enthusiastic **AI practitioner** and **DL modeler**.
-- 💬 Ask me about **NLP**, **syntax**, or **transformers**.
+- 💬 Ask me about **language and mind**, **syntax**, or **transformers**, **LLMs**, etc.
 
 - ## Skills
 - 🛠️ Languages: Python, R
